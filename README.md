@@ -1,1 +1,1 @@
-Rule number 1 -
+Rule number 1 - create a pattern
